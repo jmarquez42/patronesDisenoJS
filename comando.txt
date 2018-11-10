@@ -1,0 +1,4 @@
+npm.cmd init
+npm.cmd install --save-dev babel-cli
+npm.cmd install babel-preset-env --save-dev
+npm.cmd run build
